@@ -1,8 +1,4 @@
 # Arcana OS - Plataforma de Autonomía Inteligente
-<p align="center">
-  <img src="https://via.placeholder.com/1280x400/1A202C/81E6D9?text=Arcana+OS" alt="Arcana OS Banner">
-</p>
-<h3 align="center">La Plataforma de Autonomía Inteligente de AI Lab Enterprise</h3>
 
 ![Arcana OS Banner](httpsd://via.placeholder.com/1280x400.png/1e1e1e/FFFFFF?text=Arcana+OS+by+AI+Lab+Enterprise)
 **Arcana OS** es una plataforma de software de autonomía de alto rendimiento, diseñada para potenciar una nueva generación de vehículos y robots inteligentes. Desarrollada en el corazón de Jalisco, México por **AI Lab Enterprise**, nuestra misión es descifrar los secretos del movimiento autónomo para hacer la tecnología accesible, robusta y adaptable a los desafíos del mundo real.
