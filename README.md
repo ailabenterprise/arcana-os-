@@ -48,10 +48,10 @@ Nuestra plataforma es el núcleo que permite a la maquinaria compleja percibir s
 
 ## Sobre AI Lab Enterprise
 
-Somos un laboratorio de innovación en inteligencia artificial y robótica con sede en Tlaquepaque, Jalisco. Nuestra pasión es resolver problemas complejos y crear tecnología con un impacto real.
+Somos un laboratorio de innovación en inteligencia artificial y robótica con sede en Zapopan, Jalisco. Nuestra pasión es resolver problemas complejos y crear tecnología con un impacto real.
 
-* **Sitio Web:** `[Enlace a tu sitio web o LinkedIn]`
-* **Contacto:** `tu.email@ailabenterprise.com`
+* **Sitio Web:** `ailabenterprise.pro`
+* **Contacto:** `jesusf@ailabenterprise.pro`
 
 ---
 
